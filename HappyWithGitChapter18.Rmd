@@ -8,6 +8,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+n <- 40
+a <- 2
+b <- -3
+n*a*b
+```
 
 ## R Markdown
 
